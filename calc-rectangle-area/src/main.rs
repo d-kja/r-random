@@ -1,9 +1,37 @@
 use core::panic;
 use std::io;
 
-struct Sizes {
+#[derive(Debug)]
+struct Rectangle {
     width: u32,
     height: u32,
+}
+
+impl Rectangle {
+    // Both works
+    // fn area(self: &Self) -> u32 {
+    //     self.width * self.height
+    // }
+
+    fn area(&self) -> u32 {
+        self.width * self.height
+    }
+
+    fn can_hold(self: &Self, other: &Rectangle) -> bool {
+        self.width > other.width && self.height > other.height
+    }
+
+    // Similar to creating a new instance of a class
+    fn new_instance(size: u32) -> Self {
+        Self {
+            width: size,
+            height: size,
+        }
+    }
+}
+
+fn _calc_area(rec: Rectangle) -> u32 {
+    rec.width * rec.height
 }
 
 fn main() {
@@ -57,18 +85,30 @@ fn main() {
         break input_raw;
     };
 
-    let Sizes { height, width } = {
+    // Destructuring a struct (similar to js object)
+    // let Rectangle { height, width } = {
+    //     let width = width.parse::<u32>().unwrap();
+    //     let height = height.parse::<u32>().unwrap();
+
+    //     Rectangle { width, height }
+    // };
+
+    let rectangle = {
         let width = width.parse::<u32>().unwrap();
         let height = height.parse::<u32>().unwrap();
 
-        Sizes { width, height }
+        Rectangle { width, height }
     };
 
-    let rectangle_area = calc_area(Sizes { width, height });
+    // let rectangle_area = calc_area(Rectangle { width, height });
+    let rectangle_area = rectangle.area();
 
-    dbg!(rectangle_area);
-}
+    let square = Rectangle::new_instance(32);
 
-fn calc_area(sizes: Sizes) -> u32 {
-    sizes.width * sizes.height
+    let can_it_hold = rectangle.can_hold(&Rectangle {
+        width: 32,
+        height: 32,
+    });
+
+    dbg!(rectangle_area, square, can_it_hold);
 }
