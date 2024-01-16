@@ -1,9 +1,18 @@
-use bin::match_example2;
+use std::io;
 
-mod bin {
-    pub mod match_example2;
-}
+mod bin {}
 
 fn main() {
-    match_example2::example();
+    let user_input = loop {
+        let mut input: String = String::new();
+
+        match io::stdin().read_line(&mut input) {
+            Ok(_) => {
+                break input;
+            }
+            Err(_) => continue,
+        }
+    };
+
+    println!("{:}", user_input.trim_end());
 }

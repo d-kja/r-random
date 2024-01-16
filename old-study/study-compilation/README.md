@@ -1,6 +1,6 @@
 # Useful commands
 
-`https://youtu.be/lzKeecy4OmQ?t=5081`
+`https://youtu.be/lzKeecy4OmQ?t=5937`
 
 ## Cargo
 
