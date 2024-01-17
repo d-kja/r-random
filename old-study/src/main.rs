@@ -1,11 +1,11 @@
-use bin::exercise_5a;
+use bin::example_while;
 
 mod bin {
-    pub mod exercise_5a;
+    pub mod example_while;
 }
 
 fn main() {
-    exercise_5a::example();
+    example_while::example();
 }
 
 // let user_input = loop {
