@@ -1,11 +1,11 @@
-use bin::exercise_7::{self, Colors};
+use bin::exercise_8;
 
 mod bin {
-    pub mod exercise_7;
+    pub mod exercise_8;
 }
 
 fn main() {
-    exercise_7::example(Colors::Green);
+    exercise_8::example();
 }
 
 // let user_input = loop {
