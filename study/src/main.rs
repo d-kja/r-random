@@ -1,11 +1,11 @@
-use bin::exercise_8;
+use bin::exercise_09;
 
 mod bin {
-    pub mod exercise_8;
+    pub mod exercise_09;
 }
 
 fn main() {
-    exercise_8::example();
+    exercise_09::example();
 }
 
 // let user_input = loop {
