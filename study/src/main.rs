@@ -1,15 +1,14 @@
 use core::fmt;
-use std::fmt::write;
 
 enum Color {
-    Blue,
+    _Blue,
     Yellow,
 }
 
 impl fmt::Display for Color {
     fn fmt(&self, formatter: &mut fmt::Formatter<'_>) -> fmt::Result {
         match self {
-            Color::Blue => write!(formatter, "Blue"),
+            Color::_Blue => write!(formatter, "Blue"),
             Color::Yellow => write!(formatter, "Yellow"),
         }
     }
