@@ -1,6 +1,6 @@
 # Useful commands
 
-`https://youtu.be/lzKeecy4OmQ?t=16324`
+`https://youtu.be/lzKeecy4OmQ?t=16969`
 `https://learn.microsoft.com/en-us/training/paths/rust-first-steps/`
 `https://learn.microsoft.com/en-us/training/modules/introduction-to-github-actions/`
 `https://learn.microsoft.com/en-us/training/modules/github-actions-automate-tasks/`

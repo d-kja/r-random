@@ -41,7 +41,7 @@ fn main() {
         Ticket { 
             price: 50, // specific param
             event // generic param 
-        } => print!("price @ 50, {event}"),
+        } => println!("price @ 50, {event}"),
         Ticket { 
             price, // generic param
             .. // ignore the rest, spread
