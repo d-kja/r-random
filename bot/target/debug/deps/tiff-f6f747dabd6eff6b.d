@@ -1,0 +1,12 @@
+/home/dkja/www/projects/rust/random-snippets/bot/target/debug/deps/libtiff-f6f747dabd6eff6b.rmeta: /home/dkja/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tiff-0.3.1/src/lib.rs /home/dkja/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tiff-0.3.1/src/decoder/mod.rs /home/dkja/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tiff-0.3.1/src/decoder/ifd.rs /home/dkja/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tiff-0.3.1/src/decoder/stream.rs /home/dkja/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tiff-0.3.1/src/encoder/mod.rs /home/dkja/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tiff-0.3.1/src/encoder/colortype.rs /home/dkja/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tiff-0.3.1/src/encoder/writer.rs /home/dkja/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tiff-0.3.1/src/error.rs
+
+/home/dkja/www/projects/rust/random-snippets/bot/target/debug/deps/tiff-f6f747dabd6eff6b.d: /home/dkja/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tiff-0.3.1/src/lib.rs /home/dkja/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tiff-0.3.1/src/decoder/mod.rs /home/dkja/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tiff-0.3.1/src/decoder/ifd.rs /home/dkja/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tiff-0.3.1/src/decoder/stream.rs /home/dkja/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tiff-0.3.1/src/encoder/mod.rs /home/dkja/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tiff-0.3.1/src/encoder/colortype.rs /home/dkja/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tiff-0.3.1/src/encoder/writer.rs /home/dkja/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tiff-0.3.1/src/error.rs
+
+/home/dkja/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tiff-0.3.1/src/lib.rs:
+/home/dkja/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tiff-0.3.1/src/decoder/mod.rs:
+/home/dkja/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tiff-0.3.1/src/decoder/ifd.rs:
+/home/dkja/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tiff-0.3.1/src/decoder/stream.rs:
+/home/dkja/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tiff-0.3.1/src/encoder/mod.rs:
+/home/dkja/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tiff-0.3.1/src/encoder/colortype.rs:
+/home/dkja/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tiff-0.3.1/src/encoder/writer.rs:
+/home/dkja/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tiff-0.3.1/src/error.rs:

@@ -1,0 +1,13 @@
+/home/dkja/www/projects/rust/random-snippets/bot/target/debug/deps/libpng-d881b5491a2fa1fd.rmeta: /home/dkja/.cargo/registry/src/index.crates.io-6f17d22bba15001f/png-0.15.3/src/lib.rs /home/dkja/.cargo/registry/src/index.crates.io-6f17d22bba15001f/png-0.15.3/src/chunk.rs /home/dkja/.cargo/registry/src/index.crates.io-6f17d22bba15001f/png-0.15.3/src/decoder/mod.rs /home/dkja/.cargo/registry/src/index.crates.io-6f17d22bba15001f/png-0.15.3/src/decoder/stream.rs /home/dkja/.cargo/registry/src/index.crates.io-6f17d22bba15001f/png-0.15.3/src/encoder.rs /home/dkja/.cargo/registry/src/index.crates.io-6f17d22bba15001f/png-0.15.3/src/filter.rs /home/dkja/.cargo/registry/src/index.crates.io-6f17d22bba15001f/png-0.15.3/src/traits.rs /home/dkja/.cargo/registry/src/index.crates.io-6f17d22bba15001f/png-0.15.3/src/common.rs /home/dkja/.cargo/registry/src/index.crates.io-6f17d22bba15001f/png-0.15.3/src/utils.rs
+
+/home/dkja/www/projects/rust/random-snippets/bot/target/debug/deps/png-d881b5491a2fa1fd.d: /home/dkja/.cargo/registry/src/index.crates.io-6f17d22bba15001f/png-0.15.3/src/lib.rs /home/dkja/.cargo/registry/src/index.crates.io-6f17d22bba15001f/png-0.15.3/src/chunk.rs /home/dkja/.cargo/registry/src/index.crates.io-6f17d22bba15001f/png-0.15.3/src/decoder/mod.rs /home/dkja/.cargo/registry/src/index.crates.io-6f17d22bba15001f/png-0.15.3/src/decoder/stream.rs /home/dkja/.cargo/registry/src/index.crates.io-6f17d22bba15001f/png-0.15.3/src/encoder.rs /home/dkja/.cargo/registry/src/index.crates.io-6f17d22bba15001f/png-0.15.3/src/filter.rs /home/dkja/.cargo/registry/src/index.crates.io-6f17d22bba15001f/png-0.15.3/src/traits.rs /home/dkja/.cargo/registry/src/index.crates.io-6f17d22bba15001f/png-0.15.3/src/common.rs /home/dkja/.cargo/registry/src/index.crates.io-6f17d22bba15001f/png-0.15.3/src/utils.rs
+
+/home/dkja/.cargo/registry/src/index.crates.io-6f17d22bba15001f/png-0.15.3/src/lib.rs:
+/home/dkja/.cargo/registry/src/index.crates.io-6f17d22bba15001f/png-0.15.3/src/chunk.rs:
+/home/dkja/.cargo/registry/src/index.crates.io-6f17d22bba15001f/png-0.15.3/src/decoder/mod.rs:
+/home/dkja/.cargo/registry/src/index.crates.io-6f17d22bba15001f/png-0.15.3/src/decoder/stream.rs:
+/home/dkja/.cargo/registry/src/index.crates.io-6f17d22bba15001f/png-0.15.3/src/encoder.rs:
+/home/dkja/.cargo/registry/src/index.crates.io-6f17d22bba15001f/png-0.15.3/src/filter.rs:
+/home/dkja/.cargo/registry/src/index.crates.io-6f17d22bba15001f/png-0.15.3/src/traits.rs:
+/home/dkja/.cargo/registry/src/index.crates.io-6f17d22bba15001f/png-0.15.3/src/common.rs:
+/home/dkja/.cargo/registry/src/index.crates.io-6f17d22bba15001f/png-0.15.3/src/utils.rs:
